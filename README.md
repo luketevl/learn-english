@@ -1,3 +1,29 @@
+# To be
+# Ser estar
+| Pronomes Subjetivos |
+|:-------------------:|
+| EU                   |
+| VOCÊ                 |
+| ELE                  |
+| ELA                  |
+| COISAS               |
+| NÓS                  |
+| VOCÊS                |
+| ELES/ELAS            |
+
+
+| Pronomes Subjetivos |
+|:-------------------:|
+| I                   |
+| YOU                 |
+| HE                  |
+| SHE                 |
+| IT                  |
+| WE                  |
+| YOU                 |
+| THEY                |
+
+
 # Pronomes
 # Pronouns
 
@@ -191,43 +217,43 @@
     -  Normalmente acrescenta o **D** ou **ED**
     - Verbos _terminados_ com **e** _acrescenta_ o **D**
 
-    | VERB                       | Past                       |
-    |:--------------------------:|:--------------------------:|
-    | hope                       | hope**d**                  |
+| VERB                       | Past                       |
+|:--------------------------:|:--------------------------:|
+| hope                       | hope**d**                  |
 
-    - Verbos com uma silaba ou terminados em silaba tônica formada por **Consoante Vogal L** deve _dobrar_ a última letra e acrescenta **ED**
-      - OBS: Ingles BRITANICO palavras terminadas com **l** deve dobrar o **L**
+  - Verbos com uma silaba ou terminados em silaba tônica formada por **Consoante Vogal L** deve _dobrar_ a última letra e acrescenta **ED**
+    - OBS: Ingles BRITANICO palavras terminadas com **l** deve dobrar o **L**
 
-    | VERB                       | Past                       |
-    |:--------------------------:|:--------------------------:|
-    | stop                       | stop**ped**                |
-    | travel                     | travel**led**              |
+| VERB                       | Past                       |
+|:--------------------------:|:--------------------------:|
+| stop                       | stop**ped**                |
+| travel                     | travel**led**              |
 
-    - Verbos _terminados_ com **Y** _REMOVER_ e _acrescentar_ o **IED**
-      - Verbos _terminados_ com **Y** mas tem vogar _antes_ deve APENAS _acrescentar_ o **ED**
+  - Verbos _terminados_ com **Y** _REMOVER_ e _acrescentar_ o **IED**
+    - Verbos _terminados_ com **Y** mas tem vogar _antes_ deve APENAS _acrescentar_ o **ED**
 
-    | VERB                       | Past                       |
-    |:--------------------------:|:--------------------------:|
-    | cry                        | cr**ied**                  |
-    | play                       | play**ed**                 |
+  | VERB                       | Past                       |
+  |:--------------------------:|:--------------------------:|
+  | cry                        | cr**ied**                  |
+  | play                       | play**ed**                 |
 
-    - Verbos terminados por  **Consoante Vogal L** e a silaba tonica _nao_ é a ultima *NÃO* deve _dobrar_ a consoante e acrescenta **ED**
-      - OBS: Ingles BRITANICO palavras terminadas com **l** deve dobrar o **L**
+  - Verbos terminados por  **Consoante Vogal L** e a silaba tonica _nao_ é a ultima *NÃO* deve _dobrar_ a consoante e acrescenta **ED**
+    - OBS: Ingles BRITANICO palavras terminadas com **l** deve dobrar o **L**
 
-    | VERB                       | Past                       |
-    |:--------------------------:|:--------------------------:|
-    | listen                     | list**en**                 |
+  | VERB                       | Past                       |
+  |:--------------------------:|:--------------------------:|
+  | listen                     | list**en**                 |
 
 
-    | Affirmative             | Negative                        | Interrogative               | Short Answer            |
-    |:-----------------------:|:-------------------------------:|:---------------------------:|:-----------------------:|
-    | I work                  | I **do not** work               | **Do** i work?              | Yes, i do               |
-    | You work                | You **do not** work             | **Do** you work?            | No, you do              |
-    | He work**s**            | He **does not** work            | **Does** he works?          | Yes, he does            |
-    | She work**s**           | She **does not** work           | **Does** she works?         | No she  does            |
-    | It work**s**            | It **does not** work            | **Does** it works?          | Yes, it does            |
-    | We work                 | We **do not** work              | **Do** we work?             | Yes we do               |
-    | They work               | They **do not** work            | **Do** they work?           | No, they do             |
+  | Affirmative             | Negative                        | Interrogative               | Short Answer            |
+  |:-----------------------:|:-------------------------------:|:---------------------------:|:-----------------------:|
+  | I work                  | I **do not** work               | **Do** i work?              | Yes, i do               |
+  | You work                | You **do not** work             | **Do** you work?            | No, you do              |
+  | He work**s**            | He **does not** work            | **Does** he works?          | Yes, he does            |
+  | She work**s**           | She **does not** work           | **Does** she works?         | No she  does            |
+  | It work**s**            | It **does not** work            | **Does** it works?          | Yes, it does            |
+  | We work                 | We **do not** work              | **Do** we work?             | Yes we do               |
+  | They work               | They **do not** work            | **Do** they work?           | No, they do             |
 
 
 ## Verbos REGULARES
