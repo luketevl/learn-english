@@ -11,17 +11,16 @@
 | VOCÊS                |
 | ELES/ELAS            |
 
-
-| Pronomes Subjetivos |
-|:-------------------:|
-| I                   |
-| YOU                 |
-| HE                  |
-| SHE                 |
-| IT                  |
-| WE                  |
-| YOU                 |
-| THEY                |
+| Personal Pronouns | Verbo “to be” no presente | Contração | Verbo "to be" na negativa | Contração |
+|:-----------------:|:-------------------------:|:---------:|:-------------------------:|:---------:|
+| I (eu)              | am (sou/estou)          | I'm       | I am not (não sou/ não estou) | I'm not|
+| YOU (você)          | are (é/está)            | You're    | You are not (não é/ não está) | You aren't |
+| HE (ele)            | is  (é/está)            | He's      | He is not (não é/ não está)   | He isn't   |
+| SHE (ela)           | is  (é/está)            | She's     | She is not (não é/ não está)  | She isn't  |
+| IT  (coisas)        | is  (é/está)            | It's      | It is not (não é/ não está)   | It isn't   |
+| WE  (nos)           | are (somos/estamos)     | We're     | We are not (não somos/ não estamos) | We aren't  |
+| YOU (vocês)         | are (são/estão)         | You're    | You are not  (não são/ não estão)| You aren't |
+| THEY (eles/elas)    | are (são/estão)         | They're   | They are not (não são/ não estão)| They aren't|
 
 
 # Pronomes
