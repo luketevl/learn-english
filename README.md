@@ -389,3 +389,17 @@
       - **AN** usar se _substantivo_ começar com _VOGAL_ há alguns casos a parte
 
       - **A**
+________________________
+
+# THERE IS vs THERE ARE
+
+> Significa **há** ou **existe**
+
+- **There is** é **SINGULAR**
+- **There are** é **PLURAL**
+- Exemplos
+  - **There is** a dog behind you. _correto_
+  - **Have** a dog behind you. _incorreto_
+    - Quando o _sentido_ é de **existir** não usamos **have** (é um **verbo** e deve ser usado como um _pronome_).
+  - **There are** _many_ **birds** in the cage.
+  - **There is** _a_ bird in the cage. 
