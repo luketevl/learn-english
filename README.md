@@ -445,3 +445,5 @@ ________________________
     - Quando o _sentido_ é de **existir** não usamos **have** (é um **verbo** e deve ser usado como um _pronome_).
   - **There are** _many_ **birds** in the cage.
   - **There is** _a_ bird in the cage. 
+  
+  ![There is vs There are](https://s3.amazonaws.com/contenthub-static/blog/wp-content/uploads/2016/11/THERE-IS-THERE-ARE.jpg)
